@@ -1,0 +1,4 @@
+E:\GitHub\EdgeSky\Models\bin\Release\Models.dll
+E:\GitHub\EdgeSky\Models\bin\Release\Models.pdb
+E:\GitHub\EdgeSky\Models\obj\Release\Models.dll
+E:\GitHub\EdgeSky\Models\obj\Release\Models.pdb
