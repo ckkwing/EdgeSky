@@ -16,11 +16,6 @@ namespace EdgeSky.Controllers
         public ActionResult Index(WebChatRequestModel model)
         {
             string echoStr = Request.QueryString["echostr"];
-            //WebChatRequestModel model = new WebChatRequestModel();
-            //model.signature = Request.QueryString["signature"];
-            //model.timestamp = Request.QueryString["timestamp"];
-            //model.nonce = Request.QueryString["nonce"];
-            //model.echostr = echoStr;
 
             if (CheckSignature(model))
             {
